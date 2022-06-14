@@ -1,169 +1,172 @@
-[  {
-  "name": "Supradyn Daily Multivitamin Tablets 15s",
-  "price": "45",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-1-1641793954.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-2-1654233843.jpg"
-},
 {
-  "name": "Calcimax Forte Plus Strip Of 30 Tablets",
-  "price": "202.88",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/207833/calcimax-forte-plus-strip-of-30-tablets-2-1654078168.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/207833/calcimax-forte-plus-strip-of-30-tablets-3-1654078728.jpg"
-},
-{
-  "name": "Pharmeasy Multivitamin Multimineral - Pack Of 60",
-  "price": "384.45",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-pack-of-60-2-1643119634.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-pack-of-60-6.1-1643119632.jpg"
-},
-{
-  "name": "Pharmeasy Multivitamin Multimineral - Pack Of 60",
-  "price": "384.4",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-pack-of-60-2-1643119634.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-pack-of-60-6.1-1643119632.jpg"
-},
-{
-  "name": "Pharmeasy Multivitamin Multimineral - Pack Of 60",
-  "price": "384",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-pack-of-60-2-1643119634.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-pack-of-60-6.1-1643119632.jpg"
-},
-{
-  "name": "Arachitol Nano 60k Sugar Free Bottle Of 5ml Solution",
-  "price": "77.99",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/I35308/arachitol-nano-60k-sugar-free-bottle-of-5ml-solution-1-1651121454.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/I35308/arachitol-nano-60k-sugar-free-bottle-of-5ml-solution-2-1651121454.jpg"
-},
-{
-  "name": "Liveasy Wellness Calcium, Magnesium, Vitamin D3 & Zinc - Bones & Dental Health - Bottle 60 Tabs",
-  "price": "329.45",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/T22634/liveasy-wellness-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-tabs-2-1654233851.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/T22634/liveasy-wellness-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-tabs-3-1654233677.jpg"
-},
-{
-  "name": "Liveasy Wellness Calcium, Magnesium, Vitamin D3 & Zinc - Bones & Dental Health - Bottle 60",
-  "price": "329.45",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/T22634/liveasy-wellness-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-tabs-2-1654233851.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/T22634/liveasy-wellness-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-tabs-3-1654233677.jpg"
-},
-{
-  "name": "Benadon Vitamin B6 40mg Tablet 10'S",
-  "price": "24.13",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/022610/benadon-vitamin-b6-40mg-tablet-10s-2-1654249323.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/022610/benadon-vitamin-b6-40mg-tablet-10s-2.1-1641398904.jpg"
-},
-{
-  "name": "Revital H Men Multivitamin With Calcium, Zinc & Ginseng For Immunity, Strong Bones & Energy (30 Capsules)",
-  "price": "263.5",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-2-1654077741.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-3-1654078581.jpg"
-},
-{
-  "name": "Revital H Men Multivitamin With Calcium, Zinc & Ginseng For Immunity, Strong Bones & Energy",
-  "price": "263.5",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-2-1654077741.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-3-1654078581.jpg"
-},
-{
-  "name": "Everherb (By Pharmeasy) Ashwagandha - Immunity Booster Capsules - Anxiety & Stress Relief - Bottle Of 60",
-  "price": "329.45",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1654234192.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.1-1653130502.jpg"
-},
-{
-  "name": "Everherb (By Pharmeasy) Ashwagandha - Immunity Booster Capsules - Anxiety & Stress Relief ",
-  "price": "329.45",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1654234192.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.1-1653130502.jpg"
-},
-{
-  "name": "Coq 30mg Cellular Energy Health Supplement Capsules Strip",
-  "price": "200",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/191927/coq-30mg-cellular-energy-health-supplement-capsules-strip-of-10-2-1654078739.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/191927/coq-30mg-cellular-energy-health-supplement-capsules-strip-of-10-3-1654078496.jpg"
-},
-{
-  "name": "Colorbar Wild At Heart",
-  "price": "381",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/Q40948/colorbar-wild-at-heart-250-ml-2-1642499440.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/Q40948/colorbar-wild-at-heart-250-ml-2.1-1642499427.jpg"
-},
-{
-  "name": "Yardley London Morning Dew Daily Wear Perfume",
-  "price": "505",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/O80005/yardley-london-morning-dew-daily-wear-perfume-100-ml-2-1641794413.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/O80005/yardley-london-morning-dew-daily-wear-perfume-100-ml-2-1641794413.jpg?dim=320x320&dpr=1&q=100"
-},
-{
-  "name": "Wild Stone Code Copper Perfume Body Spray - 120ml",
-  "price": "250",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/K46687/wild-stone-code-copper-perfume-body-spray-120ml-2-1641795421.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/K46687/wild-stone-code-copper-perfume-body-spray-120ml-2-1641795421.jpg?dim=320x320&dpr=1&q=100"
-},
-{
-  "name": "Wild Stone Code Copper Perfume Body Spray",
-  "price": "250",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/K46687/wild-stone-code-copper-perfume-body-spray-120ml-2-1641795421.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/K46687/wild-stone-code-copper-perfume-body-spray-120ml-2-1641795421.jpg?dim=320x320&dpr=1&q=100"
-},
-{
-  "name": "Just Herbs Ayuredic Lipstick-08 Rose Brown (Half - Size)",
-  "price": "420.75",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/B02591/just-herbs-ayuredic-lipstick-08-rose-brown-half-size-2-1653462249.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/B02591/just-herbs-ayuredic-lipstick-08-rose-brown-half-size-6.1-1653462219.jpg"
-},
-{
-  "name": "Sugar Pop Nail Lacquer 17 Mint Marvel",
-  "price": "122",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/D63083/sugar-pop-nail-lacquer-17-mint-marvel-2-1653462829.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/D63083/sugar-pop-nail-lacquer-17-mint-marvel-6.1-1653462648.jpg"
-},
-{
-  "name": "Colorbar Vegan Nail Lacquer On D Mauve, 8 Ml",
-  "price": "166",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/B58604/colorbar-vegan-nail-lacquer-on-d-mauve-8-ml-2-1649744639.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/B58604/colorbar-vegan-nail-lacquer-on-d-mauve-8-ml-2.1-1649744607.jpg"
-},
-{
-  "name": "Everherb (By Pharmeasy) Aloe Vera Juice With Pulp - Rejuvenates Skin & Hair - 1 Litre Bottle",
-  "price": "199.5",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/E54755/everherb-by-pharmeasy-aloe-vera-juice-with-pulp-rejuvenates-skin-hair-1-litre-bottle-2-1654169665.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/E54755/everherb-by-pharmeasy-aloe-vera-juice-with-pulp-rejuvenates-skin-hair-1-litre-bottle-3-1654169651.jpg"
-},
-{
-  "name": "Calcimax 500 Health Supplement Tablets (500 Mg Of Calcium) Box Of 30",
-  "price": "304",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-6.1-1654077404.jpg",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-2-1654077366.jpg?dim=320x320&dpr=1&q=100"
-},
-{
-  "name": "Vicks Vaporub 5ml,Relief From Cold, Cough, Headache And Body Pain",
-  "price": "19.74",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/181145/vicks-vaporub-5ml-relief-from-cold-cough-headache-and-body-pain-3-1654078177.jpg",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/181145/vicks-vaporub-5ml-relief-from-cold-cough-headache-and-body-pain-2-1654078120.jpg?dim=320x320&dpr=1&q=100"
-},
-{
-  "name": "Benadon Vitamin B6 40mg Tablet 10'S",
-  "price": "24.13",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/022610/benadon-vitamin-b6-40mg-tablet-10s-2-1654249323.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/022610/benadon-vitamin-b6-40mg-tablet-10s-2.1-1641398904.jpg"
-},
-{
-  "name": "Savlon Surface Disinfectant Spray 170g",
-  "price": "135.3",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/O26428/savlon-surface-disinfectant-spray-170g-2-1654234199.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/O26428/savlon-surface-disinfectant-spray-170g-6.1-1641788812.jpg"
-},
-{
-  "name": "Vicks Vaporub 50ml, Relief From Cold, Cough, Headache And Body Pain",
-  "price": "130",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-2-1654078748.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-3-1654078369.jpg"
-},
-{
-  "name": "Depura, 60000 Iu Vitamin D3 Oral Solution,Helps Bones Healthy, Aids In Boosting Immunity, Sugarfree",
-  "price": "71",
-  "image1": "https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-1-1654077819.jpg?dim=320x320&dpr=1&q=100",
-  "image2": "https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-2-1654077895.jpg"
+  "products": [
+    {
+      "name": "Supradyn Daily Multivitamin Tablets 15s",
+      "price": "45",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-1-1641793954.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/T70695/supradyn-daily-multivitamin-tablets-15s-2-1654233843.jpg"
+    },
+    {
+      "name": "Calcimax Forte Plus Strip Of 30 Tablets",
+      "price": "202.88",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/207833/calcimax-forte-plus-strip-of-30-tablets-2-1654078168.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/207833/calcimax-forte-plus-strip-of-30-tablets-3-1654078728.jpg"
+    },
+    {
+      "name": "Pharmeasy Multivitamin Multimineral - Pack Of 60",
+      "price": "384.45",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-pack-of-60-2-1643119634.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-pack-of-60-6.1-1643119632.jpg"
+    },
+    {
+      "name": "Pharmeasy Multivitamin Multimineral - Pack Of 60",
+      "price": "384.4",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-pack-of-60-2-1643119634.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-pack-of-60-6.1-1643119632.jpg"
+    },
+    {
+      "name": "Pharmeasy Multivitamin Multimineral - Pack Of 60",
+      "price": "384",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-pack-of-60-2-1643119634.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/T60720/pharmeasy-multivitamin-multimineral-pack-of-60-6.1-1643119632.jpg"
+    },
+    {
+      "name": "Arachitol Nano 60k Sugar Free Bottle Of 5ml Solution",
+      "price": "77.99",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/I35308/arachitol-nano-60k-sugar-free-bottle-of-5ml-solution-1-1651121454.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/I35308/arachitol-nano-60k-sugar-free-bottle-of-5ml-solution-2-1651121454.jpg"
+    },
+    {
+      "name": "Liveasy Wellness Calcium, Magnesium, Vitamin D3 & Zinc - Bones & Dental Health - Bottle 60 Tabs",
+      "price": "329.45",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/T22634/liveasy-wellness-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-tabs-2-1654233851.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/T22634/liveasy-wellness-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-tabs-3-1654233677.jpg"
+    },
+    {
+      "name": "Liveasy Wellness Calcium, Magnesium, Vitamin D3 & Zinc - Bones & Dental Health - Bottle 60",
+      "price": "329.45",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/T22634/liveasy-wellness-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-tabs-2-1654233851.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/T22634/liveasy-wellness-calcium-magnesium-vitamin-d3-zinc-bones-dental-health-bottle-60-tabs-3-1654233677.jpg"
+    },
+    {
+      "name": "Benadon Vitamin B6 40mg Tablet 10'S",
+      "price": "24.13",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/022610/benadon-vitamin-b6-40mg-tablet-10s-2-1654249323.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/022610/benadon-vitamin-b6-40mg-tablet-10s-2.1-1641398904.jpg"
+    },
+    {
+      "name": "Revital H Men Multivitamin With Calcium, Zinc & Ginseng For Immunity, Strong Bones & Energy (30 Capsules)",
+      "price": "263.5",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-2-1654077741.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-3-1654078581.jpg"
+    },
+    {
+      "name": "Revital H Men Multivitamin With Calcium, Zinc & Ginseng For Immunity, Strong Bones & Energy",
+      "price": "263.5",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-2-1654077741.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-3-1654078581.jpg"
+    },
+    {
+      "name": "Everherb (By Pharmeasy) Ashwagandha - Immunity Booster Capsules - Anxiety & Stress Relief - Bottle Of 60",
+      "price": "329.45",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1654234192.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.1-1653130502.jpg"
+    },
+    {
+      "name": "Everherb (By Pharmeasy) Ashwagandha - Immunity Booster Capsules - Anxiety & Stress Relief ",
+      "price": "329.45",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1654234192.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.1-1653130502.jpg"
+    },
+    {
+      "name": "Coq 30mg Cellular Energy Health Supplement Capsules Strip",
+      "price": "200",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/191927/coq-30mg-cellular-energy-health-supplement-capsules-strip-of-10-2-1654078739.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/191927/coq-30mg-cellular-energy-health-supplement-capsules-strip-of-10-3-1654078496.jpg"
+    },
+    {
+      "name": "Colorbar Wild At Heart",
+      "price": "381",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/Q40948/colorbar-wild-at-heart-250-ml-2-1642499440.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/Q40948/colorbar-wild-at-heart-250-ml-2.1-1642499427.jpg"
+    },
+    {
+      "name": "Yardley London Morning Dew Daily Wear Perfume",
+      "price": "505",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/O80005/yardley-london-morning-dew-daily-wear-perfume-100-ml-2-1641794413.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/O80005/yardley-london-morning-dew-daily-wear-perfume-100-ml-2-1641794413.jpg?dim=320x320&dpr=1&q=100"
+    },
+    {
+      "name": "Wild Stone Code Copper Perfume Body Spray - 120ml",
+      "price": "250",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/K46687/wild-stone-code-copper-perfume-body-spray-120ml-2-1641795421.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/K46687/wild-stone-code-copper-perfume-body-spray-120ml-2-1641795421.jpg?dim=320x320&dpr=1&q=100"
+    },
+    {
+      "name": "Wild Stone Code Copper Perfume Body Spray",
+      "price": "250",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/K46687/wild-stone-code-copper-perfume-body-spray-120ml-2-1641795421.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/K46687/wild-stone-code-copper-perfume-body-spray-120ml-2-1641795421.jpg?dim=320x320&dpr=1&q=100"
+    },
+    {
+      "name": "Just Herbs Ayuredic Lipstick-08 Rose Brown (Half - Size)",
+      "price": "420.75",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/B02591/just-herbs-ayuredic-lipstick-08-rose-brown-half-size-2-1653462249.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/B02591/just-herbs-ayuredic-lipstick-08-rose-brown-half-size-6.1-1653462219.jpg"
+    },
+    {
+      "name": "Sugar Pop Nail Lacquer 17 Mint Marvel",
+      "price": "122",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/D63083/sugar-pop-nail-lacquer-17-mint-marvel-2-1653462829.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/D63083/sugar-pop-nail-lacquer-17-mint-marvel-6.1-1653462648.jpg"
+    },
+    {
+      "name": "Colorbar Vegan Nail Lacquer On D Mauve, 8 Ml",
+      "price": "166",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/B58604/colorbar-vegan-nail-lacquer-on-d-mauve-8-ml-2-1649744639.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/B58604/colorbar-vegan-nail-lacquer-on-d-mauve-8-ml-2.1-1649744607.jpg"
+    },
+    {
+      "name": "Everherb (By Pharmeasy) Aloe Vera Juice With Pulp - Rejuvenates Skin & Hair - 1 Litre Bottle",
+      "price": "199.5",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/E54755/everherb-by-pharmeasy-aloe-vera-juice-with-pulp-rejuvenates-skin-hair-1-litre-bottle-2-1654169665.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/E54755/everherb-by-pharmeasy-aloe-vera-juice-with-pulp-rejuvenates-skin-hair-1-litre-bottle-3-1654169651.jpg"
+    },
+    {
+      "name": "Calcimax 500 Health Supplement Tablets (500 Mg Of Calcium) Box Of 30",
+      "price": "304",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-6.1-1654077404.jpg",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-2-1654077366.jpg?dim=320x320&dpr=1&q=100"
+    },
+    {
+      "name": "Vicks Vaporub 5ml,Relief From Cold, Cough, Headache And Body Pain",
+      "price": "19.74",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/181145/vicks-vaporub-5ml-relief-from-cold-cough-headache-and-body-pain-3-1654078177.jpg",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/181145/vicks-vaporub-5ml-relief-from-cold-cough-headache-and-body-pain-2-1654078120.jpg?dim=320x320&dpr=1&q=100"
+    },
+    {
+      "name": "Benadon Vitamin B6 40mg Tablet 10'S",
+      "price": "24.13",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/022610/benadon-vitamin-b6-40mg-tablet-10s-2-1654249323.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/022610/benadon-vitamin-b6-40mg-tablet-10s-2.1-1641398904.jpg"
+    },
+    {
+      "name": "Savlon Surface Disinfectant Spray 170g",
+      "price": "135.3",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/O26428/savlon-surface-disinfectant-spray-170g-2-1654234199.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/O26428/savlon-surface-disinfectant-spray-170g-6.1-1641788812.jpg"
+    },
+    {
+      "name": "Vicks Vaporub 50ml, Relief From Cold, Cough, Headache And Body Pain",
+      "price": "130",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-2-1654078748.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-3-1654078369.jpg"
+    },
+    {
+      "name": "Depura, 60000 Iu Vitamin D3 Oral Solution,Helps Bones Healthy, Aids In Boosting Immunity, Sugarfree",
+      "price": "71",
+      "image1": "https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-1-1654077819.jpg?dim=320x320&dpr=1&q=100",
+      "image2": "https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-2-1654077895.jpg"
+    }
+  ]
 }
-]
